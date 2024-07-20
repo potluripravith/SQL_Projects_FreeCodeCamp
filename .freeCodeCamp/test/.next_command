@@ -1,0 +1,46 @@
+chmod +x queries.sh
+chmod +x insert_data.sh
+./insert_data.sh
+./queries.sh
+git config --global user.name "Potluri Pravith"
+git config --global user.name "Potluri Pravith"
+git config --global user.email "potluripravith2003@gmail.com"
+cd /workspace/project
+https://github.com/potluripravith/SQL_Projects_FreeCodeCamp.git
+https://github.com/potluripravith/SQL_Projects_FreeCodeCamp.gi
+https://github.com/potluripravith/SQL_Projects_FreeCodeCamp.git
+git clone https://github.com/potluripravith/SQL_Projects_FreeCodeCamp.git
+mkdir Project1 Project2 Project3 Project4
+cd Project1
+git init
+git add worldcup.sql queries.sh insert_data.sh games.csv
+cd /workspace/project
+git init
+git add worldcup.sql queries.sh insert_data.sh games.csv
+git commit -m "Add universe database dump"
+git remote add origin https://github.com/potluripravith/SQL_Projects_FreeCodeCamp.git
+git push -u origin main
+cd /workspace/project
+git init
+git add worldcup.sql queries.sh insert_data.sh games.csv
+git commit -m "Add universe database dump"
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git init
+git add worldcup.sql queries.sh insert_data.sh games.csv
+git commit -m "Add universe database dump"
+git push -u origin main
+rm -rf .git
+rm -rf .git
+git init
+mkdir -p Project1 SQL_Projects_FreeCodeCamp
+mv worldcup.sql queries.sh insert_data.sh games.csv Project1/
+git init
+git add .
+find . -name ".git"
+rm -rf SQL_Projects_FreeCodeCamp/.git
+rm -rf .git
+git init
+git add .
